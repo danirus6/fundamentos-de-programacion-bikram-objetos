@@ -1,4 +1,4 @@
-/*
+
 //1
 const Coche = {
     marca: "Audi",
@@ -15,7 +15,7 @@ const Casa = {
 //3
 const FullStackDeveloper = {
     lenguajes: [],
-    proyectos: []
+    proyectos: [],
 };
 //4
 const Perro = {
@@ -30,36 +30,38 @@ const Perro = {
         return Math.random() *3;
     }
 };
+
 //5
-const Portatil = {
-    marca: "Lenovo"
+const portatil = {
+    marca: "Asus",
 };
-const marcaPortatil = Portatil.marca;
+const marcaPortatil = portatil.marca;
+
 //6
-const Portatil2 = {
+const portatil2 = {
     marca: "Lenovo2"
 };
-const marcaPortatil1 = Portatil2["marca"];
+const marcaPortatil1 = portatil2["marca"];
 //7
-const Concierto = {
+const concierto = {
     grupos: ["grupo1","grupo2"]
 };
-const grupos = Concierto["grupos"];*/
+const grupos = concierto["grupos"];
 //8
-const Led = {
+const led = {
     rojo: false,
     verde: false,
     azul: true,
 };
-const arrayRGB = [Led.rojo, Led.verde, Led.azul]
+const arrayRGB = [led.rojo, led.verde, led.azul]
 //9
-/*
-const Portatil3 = {
+
+const portatil3 = {
     modelo: "nombre"
 };
-*/
+
 //Eder
 
 
 //Laura
-//Portatil3.modelo = "P345";
+portatil3.modelo = "P345";
