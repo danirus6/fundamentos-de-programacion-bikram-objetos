@@ -44,7 +44,7 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 - [ ] 11.- Dado un **objeto** de nombre **Concierto** modifica el valor de la propiedad **fecha** por el valor **new Date() (fecha de hoy)**
 
 - [ ] 12.- Dado un **objeto** de nombre **Impresora** modifica el valor de la propiedad **imprimiendo** por el valor **objeto con propiedades: nombreArchivo, copias, numPaginas**
-
+Dado un **objeto** de nombre **Impresora** modifica el valor de la propiedad **imprimiendo** por el valor **objeto con propiedades: nombreArchivo, copias, numPaginas**
 ## Iteraciones :crossed_swords: Pair Programming :crossed_swords: ##
 
 ### Objetos ###
